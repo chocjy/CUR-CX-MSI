@@ -5,6 +5,8 @@ __pycache__/
 # ipython notebook
 .ipynb*
 
+.DS_store
+
 # C extensions
 *.so
 
