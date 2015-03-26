@@ -2,7 +2,7 @@
 codes for running CUR/CX decomposition on MSI dataset
 
 ## Codes
-`src` contains codes for doing CUR/CX decomposition as well as parameter grid searching.
+`src` contains codes for doing CUR/CX decomposition as well as parameter grid searching in Python.
 
 `ipython_notebook` contains ipython notebooks for illustrating the usage and some of the results on MSI dataset.
 To view the notebooks, click on the following links.
