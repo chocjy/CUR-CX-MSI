@@ -2,9 +2,9 @@
 Python codes for running CUR/CX decomposition on small to medium scale datasets with application in mass spectrometry imaging. 
 
 ## Codes
-`src` contains codes for doing CUR/CX decomposition as well as parameter grid searching in Python.
+`src` contains codes for doing CUR/CX decomposition on general matrices as well as parameter grid searching in Python.
 
-`ipython_notebook` contains ipython notebooks for illustrating the usage and some of the results on MSI dataset.
+`ipython_notebook` contains ipython notebooks that illustrate the usage of these codes on an MSI dataset as well as the results.
 To view the notebooks, click on the following links.
 + [a full analysis on the brain dataset](http://nbviewer.ipython.org/github/chocjy/CUR-CX-MSI/blob/master/ipython_notebook/Full_Analysis_Brain.ipynb)
 
