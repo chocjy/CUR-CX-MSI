@@ -1,5 +1,5 @@
 # CUR-CX-MSI
-codes for running CUR/CX decomposition on MSI dataset
+Python codes for running CUR/CX decomposition on small to medium scale datasets with application in mass spectrometry imaging. 
 
 ## Codes
 `src` contains codes for doing CUR/CX decomposition as well as parameter grid searching in Python.
