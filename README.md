@@ -12,4 +12,5 @@ To view the notebooks, click on the following links.
 See https://openmsi.nersc.gov/openmsi/client/ for more details.
 
 ## References
-To add.
+Jiyan Yang, Oliver Rubel, Prabhat, Michael W. Mahoney, and Ben P. Bowen, [Identifying Important Ions and Positions in Mass Spectrometry Imaging Data Using CUR Matrix Decompositions](http://pubs.acs.org/doi/abs/10.1021/ac5040264). *Analytical Chemistry, 87(9), 4658-4666, 2015*.
+
